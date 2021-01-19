@@ -1,1 +1,3 @@
 # esp32_ota
+
+CODE TO OTA UPDATE ESP32.
