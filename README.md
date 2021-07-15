@@ -1,3 +1,3 @@
-# esp32_ota
+# POS_ota
 
-CODE TO OTA UPDATE ESP32.
+CODE TO OTA UPDATE POS.
